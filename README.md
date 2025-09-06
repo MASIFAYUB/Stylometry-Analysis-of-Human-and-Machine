@@ -5,4 +5,5 @@ This work tackles academic integrity issues—plagiarism, fabrication, and autho
 To run the notebooks, you'll need to modify the directory and file paths to match your own directory structure.
 
 # Both Datasets for All Tasks
-*Google Drive link will be shared later*
+Old Dataset Link: https://drive.google.com/drive/folders/1OAT0W2GhameovASEOCu6QjLgOPdt6MVk?usp=sharing
+New Dataset Link: https://drive.google.com/drive/folders/1kTTMtZs0eNy5npzpp2yFHFyXfn2OtfEe?usp=sharing
